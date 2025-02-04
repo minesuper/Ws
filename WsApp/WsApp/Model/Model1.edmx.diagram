@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="57db1d8c31ef4efd9e111df86632374f" Name="Diagram1">
+        <EntityTypeShape EntityType="WSDBModel.DepartmentLevel1" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.DepartmentLevel2" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.DepartmentLevel3" Width="1.5" PointX="7.5" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.Employees" Width="1.5" PointX="9.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.Events" Width="1.5" PointX="12" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.Organisation" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.Roles" Width="1.5" PointX="7.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.TrainingMaterials" Width="1.5" PointX="14.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.Trainings" Width="1.5" PointX="12" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.VacationCalendar" Width="1.5" PointX="15" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.VacationTypes" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WSDBModel.WorkingCalendar" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="WSDBModel.FK_DepartmentLevel1_Organisation" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_DepartmentLevel2_DepartmentLevel1" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Employees_DepartmentLevel1" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_DepartmentLevel3_DepartmentLevel2" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Employees_DepartmentLevel2" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Employees_DepartmentLevel3" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Employees_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Employees_Employees1" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Employees_Organisation" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Employees_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Events_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_Trainings_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_VacationCalendar_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_TrainingMaterials_Trainings" ManuallyRouted="false" />
+        <AssociationConnector Association="WSDBModel.FK_VacationCalendar_VacationTypes" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
