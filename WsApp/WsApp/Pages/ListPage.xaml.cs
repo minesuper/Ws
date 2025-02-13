@@ -138,11 +138,8 @@ namespace WsApp.Pages
 
         private void EmployeesListView_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
-            var Window = new TestWindow()
-            {
-                WindowStartupLocation = WindowStartupLocation.CenterOwner,
-            };
-            Window.ShowDialog();
+            var AddEditWindow = new Pages.AddEditWindow();
+            AddEditWindow.ShowDialog();
         }
     }
 }

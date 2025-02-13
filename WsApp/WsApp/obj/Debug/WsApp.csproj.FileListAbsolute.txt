@@ -51,3 +51,29 @@ C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.csproj.CoreCompileInp
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.csproj.Up2Date
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.exe
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.pdb
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\WsApp.exe.config
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\WsApp.exe
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\WsApp.pdb
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\EntityFramework.dll
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\EntityFramework.xml
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.csproj.AssemblyReference.cache
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\MainWindow.g.cs
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\Pages\ListPage.g.cs
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\App.g.cs
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp_Content.g.cs
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp_MarkupCompile.cache
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp_MarkupCompile.lref
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\MainWindow.baml
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\Pages\ListPage.baml
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.g.resources
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.Properties.Resources.resources
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.csproj.GenerateResource.cache
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.csproj.CoreCompileInputs.cache
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.csproj.CopyComplete
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.exe
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.pdb
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\Pages\AddEditWindow.g.cs
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\Pages\AddEditWindow.baml

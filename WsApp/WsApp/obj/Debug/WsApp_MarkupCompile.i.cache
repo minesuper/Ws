@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\source\repos\WsApp\WsApp\obj\Debug\
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\
 WsApp
 none
 false
 DEBUG;TRACE
-C:\Users\Admin\source\repos\WsApp\WsApp\App.xaml
-32113057742
-2739969757
-24368220181
-181386093537
-MainWindow.xaml;Pages\ListPage.xaml;Pages\TestWindow.xaml;
+C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\App.xaml
+3-1696586094
+2-1556844510
+24291256708
+181491814021
+MainWindow.xaml;Pages\AddEditWindow.xaml;Pages\ListPage.xaml;
 
 True
 
