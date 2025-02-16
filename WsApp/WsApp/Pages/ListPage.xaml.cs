@@ -133,12 +133,13 @@ namespace WsApp.Pages
 
         private void AddEmployeeButton_Click(object sender, RoutedEventArgs e)
         {
-
+            var AddEditWindow = new Pages.AddEditWindow(null);
+            AddEditWindow.ShowDialog();
         }
 
-        private void EmployeesListView_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        private void EditButton_Click(object sender, RoutedEventArgs e)
         {
-            var AddEditWindow = new Pages.AddEditWindow();
+            var AddEditWindow = new Pages.AddEditWindow((sender as Button).DataContext as Model.Employees);
             AddEditWindow.ShowDialog();
         }
     }

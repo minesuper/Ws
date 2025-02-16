@@ -5,9 +5,94 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WsApp.Pages"
         mc:Ignorable="d"
-        Title="Добавление/редактирование сотрудника" Height="450" Width="800"
-        MinHeight="450" MinWidth="800" WindowStartupLocation="CenterScreen">
-    <Grid>
-        
+        Title="Добавление/редактирование сотрудника" Height="450" Width="900"
+        MinHeight="450" MinWidth="900" WindowStartupLocation="CenterScreen">
+    <Grid Background="LightGray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background="White" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Content="ФИО:" Grid.Row="0" Grid.Column="0"
+                   HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Мобильный телефон:" Grid.Row="1" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="День рождения:" Grid.Row="2" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Структурное подразделение:" Grid.Row="3" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Должность:" Grid.Row="4" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Непосредственный руководитель:" Grid.Row="5" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Помощник:" Grid.Row="6" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Рабочий телефон:" Grid.Row="7" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Электронная почта:" Grid.Row="8" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Кабинет:" Grid.Row="9" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <Label Content="Прочая информация:" Grid.Row="10" Grid.Column="0"
+                    HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+            <TextBox x:Name="FIOTextBox" Grid.Column="1" Grid.Row="0"
+                       Height="26" Width="180"
+                     VerticalAlignment="Center" HorizontalAlignment="Left"></TextBox>
+            <TextBox x:Name="PhoneTextBox" Grid.Column="1" Grid.Row="1"
+                    Height="26" Width="180"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></TextBox>
+            <DatePicker x:Name="BirthdateDatePicker" Grid.Column="1" Grid.Row="2"
+                    Height="26" Width="180"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></DatePicker>
+            <ComboBox x:Name="DepComboBox" Grid.Column="1" Grid.Row="3"
+                    Height="26" Width="180" DisplayMemberPath="Name"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></ComboBox>
+            <ComboBox x:Name="RoleComboBox" Grid.Column="1" Grid.Row="4"
+                    Height="26" Width="180" DisplayMemberPath="Name"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></ComboBox>
+            <ComboBox x:Name="ManagerComboBox" Grid.Column="1" Grid.Row="5"
+                    Height="26" Width="180" DisplayMemberPath="Name"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></ComboBox>
+            <ComboBox x:Name="SupportComboBox" Grid.Column="1" Grid.Row="6"
+                    Height="26" Width="180" DisplayMemberPath="Name"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></ComboBox>
+            <TextBox x:Name="WorkPhoneTextBox" Grid.Column="1" Grid.Row="7"
+                    Height="26" Width="180"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></TextBox>
+            <TextBox x:Name="MailTextBox" Grid.Column="1" Grid.Row="8"
+                    Height="26" Width="180"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></TextBox>
+            <TextBox x:Name="RoomTextBox" Grid.Column="1" Grid.Row="9"
+                    Height="26" Width="180"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></TextBox>
+            <TextBox x:Name="DescTextBox" Grid.Column="1" Grid.Row="10"
+                    Height="26" Width="180"
+                    VerticalAlignment="Center" HorizontalAlignment="Left"></TextBox>
+            <Button x:Name="EnableEditButton" Content="✏" Grid.Row="11" Grid.Column="0"
+                    Width="30" Height="30" Background="#78B24B" Click="EnableEditButton_Click"></Button>
+            <Button x:Name="SaveChangesButton" Content="Сохранить" Grid.Row="11" Grid.Column="1"
+                     Width="200" Height="30" Background="#78B24B" Click="SaveChangesButton_Click"></Button>
+        </Grid>
+        <Grid Grid.Column="1" Background="White" Margin="10">
+
+        </Grid>
     </Grid>
 </Window>

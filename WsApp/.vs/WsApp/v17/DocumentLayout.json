@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|c:\\users\\admin\\desktop\\project\\wsapp\\wsapp\\pages\\addeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|solutionrelative:wsapp\\pages\\addeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|c:\\users\\admin\\desktop\\project\\wsapp\\wsapp\\pages\\addeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|solutionrelative:wsapp\\pages\\addeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|c:\\users\\admin\\desktop\\project\\wsapp\\wsapp\\pages\\listpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|solutionrelative:wsapp\\pages\\listpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
@@ -11,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|solutionrelative:wsapp\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|C:\\Users\\Admin\\Desktop\\Project\\WsApp\\wsapp\\pages\\testwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|solutionrelative:wsapp\\pages\\testwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|C:\\Users\\Admin\\Desktop\\Project\\WsApp\\wsapp\\pages\\testwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|solutionrelative:wsapp\\pages\\testwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|c:\\users\\admin\\desktop\\project\\wsapp\\wsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|solutionrelative:wsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D45761D-84D9-4CA4-8AA4-9441B9331078}|WsApp\\WsApp.csproj|C:\\Users\\Admin\\Desktop\\Project\\WsApp\\wsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,69 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\TestWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WsApp\\Pages\\TestWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\TestWindow.xaml.cs",
-              "RelativeToolTip": "WsApp\\Pages\\TestWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T21:23:47.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\TestWindow.xaml",
-              "RelativeDocumentMoniker": "WsApp\\Pages\\TestWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\TestWindow.xaml",
-              "RelativeToolTip": "WsApp\\Pages\\TestWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T21:23:26.846Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\AddEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WsApp\\Pages\\AddEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\AddEditWindow.xaml.cs",
+              "RelativeToolTip": "WsApp\\Pages\\AddEditWindow.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAH4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:15:10.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\App.config",
+              "RelativeDocumentMoniker": "WsApp\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\App.config",
+              "RelativeToolTip": "WsApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-16T17:14:06.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\AddEditWindow.xaml",
+              "RelativeDocumentMoniker": "WsApp\\Pages\\AddEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\AddEditWindow.xaml",
+              "RelativeToolTip": "WsApp\\Pages\\AddEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T17:12:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ListPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\ListPage.xaml.cs",
               "RelativeDocumentMoniker": "WsApp\\Pages\\ListPage.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\ListPage.xaml.cs",
               "RelativeToolTip": "WsApp\\Pages\\ListPage.xaml.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAwIoAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwIcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T16:41:36.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ListPage.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\ListPage.xaml",
               "RelativeDocumentMoniker": "WsApp\\Pages\\ListPage.xaml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\Pages\\ListPage.xaml",
               "RelativeToolTip": "WsApp\\Pages\\ListPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T16:36:06.681Z"
+              "WhenOpened": "2025-02-04T16:36:06.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WsApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\MainWindow.xaml",
               "RelativeToolTip": "WsApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T15:21:42.294Z"
+              "WhenOpened": "2025-02-04T15:21:42.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project\\WsApp\\WsApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WsApp\\MainWindow.xaml.cs",

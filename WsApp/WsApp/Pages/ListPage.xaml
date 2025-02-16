@@ -27,27 +27,32 @@
                 <RowDefinition Height="1*" MaxHeight="120"></RowDefinition>
             </Grid.RowDefinitions>
             <ListView x:Name="EmployeesListView" Background="LightGray"
-                      MouseDoubleClick="EmployeesListView_MouseDoubleClick"
                       BorderBrush="LightGray">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <Grid Background="#78B24B" MinWidth="540">
-                            <StackPanel Orientation="Vertical" Margin="10 20">
-                                <TextBlock TextWrapping="Wrap">
-                                    <Run Text="HELPHELPHELP"/>
-                                    <Run Text="-"/>
-                                    <Run Text="{Binding Roles.Name}"/>
-                                </TextBlock>
-                                <TextBlock>
-                                    <Run Text="{Binding Surname}"/>
-                                    <Run Text="{Binding Name}"/>
-                                    <Run Text="{Binding Patronym}"/>
-                                </TextBlock>
-                                <TextBlock>
-                                    <Run Text="{Binding WorkPhone}"/>
-                                    <Run Text="{Binding WorkEmail}"/>
-                                </TextBlock>
-                                <TextBlock Text="{Binding Room}"></TextBlock>
+                            <StackPanel Orientation="Horizontal">
+                                <StackPanel Orientation="Vertical" Margin="10 20"
+                                            Width="400">
+                                    <TextBlock TextWrapping="Wrap">
+                                        <Run Text="HELPHELPHELP"/>
+                                        <Run Text="-"/>
+                                        <Run Text="{Binding Roles.Name}"/>
+                                    </TextBlock>
+                                    <TextBlock>
+                                        <Run Text="{Binding Surname}"/>
+                                        <Run Text="{Binding Name}"/>
+                                        <Run Text="{Binding Patronym}"/>
+                                    </TextBlock>
+                                    <TextBlock>
+                                        <Run Text="{Binding WorkPhone}"/>
+                                        <Run Text="{Binding WorkEmail}"/>
+                                    </TextBlock>
+                                    <TextBlock Text="{Binding Room}"></TextBlock>
+                                </StackPanel>
+                                <Button x:Name="EditButton" Content="Редактировать"
+                                        Click="EditButton_Click" Height="40" Width="100"
+                                        Background="#89FC43"></Button>
                             </StackPanel>
                         </Grid>
                     </DataTemplate>

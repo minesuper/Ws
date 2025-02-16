@@ -36,14 +36,12 @@ C:\Users\Admin\Desktop\Project\WsApp\WsApp\bin\Debug\ru\EntityFramework.resource
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\MainWindow.g.cs
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\Pages\ListPage.g.cs
-C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\Pages\TestWindow.g.cs
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\App.g.cs
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp_Content.g.cs
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp_MarkupCompile.cache
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp_MarkupCompile.lref
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\MainWindow.baml
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\Pages\ListPage.baml
-C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\Pages\TestWindow.baml
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.g.resources
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.Properties.Resources.resources
 C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\WsApp.csproj.GenerateResource.cache
@@ -77,3 +75,5 @@ C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.exe
 C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\WsApp.pdb
 C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\Pages\AddEditWindow.g.cs
 C:\Users\lisav\Desktop\Новая папка\Ws\WsApp\WsApp\obj\Debug\Pages\AddEditWindow.baml
+C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\Pages\AddEditWindow.g.cs
+C:\Users\Admin\Desktop\Project\WsApp\WsApp\obj\Debug\Pages\AddEditWindow.baml
